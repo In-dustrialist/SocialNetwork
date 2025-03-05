@@ -6,7 +6,7 @@ using SocialNetwork.PLL.Views;
 using System;
 using System.Linq;
 
-namespace SocialNetwork
+namespace SocialNetwork 
 {
     class Program
     {
