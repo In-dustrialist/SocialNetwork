@@ -18,6 +18,8 @@ namespace SocialNetwork.BLL.Services
             messageService = new MessageService();
         }
 
+
+
         public void Register(UserRegistrationData userRegistrationData)
         {
             if (String.IsNullOrEmpty(userRegistrationData.FirstName))
